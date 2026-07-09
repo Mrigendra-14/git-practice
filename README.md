@@ -5,3 +5,5 @@ This repository is created as part of my 4-week Full Stack + Sitecore XM Cloud B
 Developer: "Mrigendra Dwivedi"
 
 Started: July 2026
+
+Learning Progress: Day 0 Completed
